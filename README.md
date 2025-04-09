@@ -1,2 +1,2 @@
 # Kül ve Gül Arasında
-Bir şiirsel seramik koleksiyonu vitrin sitesi.
+Şiirsel bir seramik koleksiyonu vitrin sitesi.
